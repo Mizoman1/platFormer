@@ -1,1 +1,0 @@
-print("thank god")
